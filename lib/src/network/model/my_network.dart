@@ -1,0 +1,11 @@
+export './cabang/cabang_model.dart';
+export './dashboard/dashboard_model.dart';
+export './global/global_model.dart';
+export './kategori_produk/kategori_produk_model.dart';
+export './kegiatan/kegiatan_model.dart';
+export './penjualan/penjualan_model.dart';
+export './produk/produk_model.dart';
+export './realisasi/realisasi_model.dart';
+export './rencana/rencana_model.dart';
+export './sales/sales_model.dart';
+export './user/user_model.dart';
